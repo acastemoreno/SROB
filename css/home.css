@@ -156,13 +156,13 @@
 	display:inline-block;
   box-shadow: none;
   font-weight: 200;
-	background:rgba(114, 192, 44, 0.8);
+	background:rgba(53, 118, 229, 0.8);
 }
 #sequence-theme .info p {
   color: #fff;
   font-size: 20px;
 	padding:5px 10px;
-  background:rgba(114, 192, 44, 0.8);
+  background:rgba(53, 118, 229, 0.8);
 }
 @-webkit-keyframes spin-right{0{-webkit-transform:rotate(0)}100%{-webkit-transform:rotate(360deg)}}@-o-keyframes spin-right{0{-o-transform:rotate(0)}100%{-o-transform:rotate(360deg)}}@-moz-keyframes spin-right{0{-moz-transform:rotate(0)}100%{-moz-transform:rotate(360deg)}}@keyframes spin-right{0{transform:rotate(0)}100%{transform:rotate(360deg)}}
 @-webkit-keyframes spin-left{0{-webkit-transform:rotate(0)}100%{-webkit-transform:rotate(-360deg)}}@-o-keyframes spin-left{0{-o-transform:rotate(0)}100%{-o-transform:rotate(-360deg)}}@-moz-keyframes spin-left{0{-moz-transform:rotate(0)}100%{-moz-transform:rotate(-360deg)}}@keyframes spin-left{0{transform:rotate(0)}100%{transform:rotate(-360deg)}}
